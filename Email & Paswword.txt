@@ -1,0 +1,11 @@
+-----Admin---------------
+Email : admin@gmail.com
+Paswword: 123456
+
+-----User 1---------------
+Email : emp2@gmail.com
+Paswword: 222222
+
+-----User 2---------------
+Email : emp3@gmail.com
+Paswword: 333333
